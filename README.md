@@ -9,7 +9,7 @@
 
 # Interactive Dashboard Link: 
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiMjUwOGI3ZGEtYjdhNS00OGFkLWJmMjYtN2RhOTFmYzdkZWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Problem Statement
 
